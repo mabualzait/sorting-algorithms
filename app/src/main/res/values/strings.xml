@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SortingAlgorithms</string>
+    <string name="loaded">\" values have been loaded!\"</string>
+    <string name="please_wait">Sorting, please wait .....</string>
+    <string name="execution_time">Execution Time:-</string>
+    <string name="press_on_load_data_button_to_get_an_array">Press on load data button to get an Array</string>
+    <string name="then_select_sort_algorithm">Then select sort algorithm</string>
+    <string name="bubble">Bubble</string>
+    <string name="insertion">Insertion</string>
+    <string name="selection">Selection</string>
+    <string name="merge">Merge</string>
+    <string name="load_data">Load data</string>
+    <string name="bubble_sort">Bubble sort</string>
+    <string name="insertion_sort">Insertion sort</string>
+    <string name="selection_sort">Selection sort</string>
+    <string name="merge_sort">Merge sort</string>
+</resources>
