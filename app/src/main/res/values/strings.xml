@@ -14,4 +14,8 @@
     <string name="insertion_sort">Insertion sort</string>
     <string name="selection_sort">Selection sort</string>
     <string name="merge_sort">Merge sort</string>
+    <string name="more_details">More details</string>
+    <string name="log_n">O(n*log n)</string>
+    <string name="com_n_square">O(N^2)</string>
+    <string name="o_n">O(N)</string>
 </resources>
