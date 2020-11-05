@@ -1,7 +1,7 @@
 # sorting-algorithms
 Part of the algorithm course by Dr. Ahmad Azzazi
 
-![](soring.gif)
+![](soring.gif =100x20)
 
 
 This is an example of 4 different types of sorting algorithms we calculate the execution time for each one to decide which one has better performance 
